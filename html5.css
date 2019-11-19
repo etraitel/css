@@ -1,0 +1,22 @@
+.site-sidebar {
+    background-color: #F3F5F7;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+}
+
+.site-content {
+	font-family: Montserrat, sans-serif;
+	font-size: 15px;
+}
+
+.btn-primary,.pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus {
+    border-color:#5E87B1;
+}
+
+.bg-primary,.btn-primary,.pagination>.active>a,.pagination>.active>span,.pagination>.active>a:hover,.pagination>.active>span:hover,.pagination>.active>a:focus,.pagination>.active>span:focus,.site-sidebar,.portal-single-publication .publication-icon {
+    background-color:#53616A;
+}
+
+.article {
+    margin-left: 3%;
+}
